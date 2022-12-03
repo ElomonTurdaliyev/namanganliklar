@@ -1,0 +1,2 @@
+# namanganliklar
+Birinchi web-saytim
